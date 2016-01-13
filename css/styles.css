@@ -59,7 +59,7 @@ a.delete-file:visited {
 
 #file-form {
   width: 650px;
-  float: left;
+  float: right;
 }
 
 .field {
@@ -100,7 +100,7 @@ button:hover {
 
 #files {
   width: 230px;
-  float: right;
+  float: left;
 }
 
 #files ul {
